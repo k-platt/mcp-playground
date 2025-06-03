@@ -1,0 +1,11 @@
+{
+    "mcp": {
+      "servers": {
+        "mcp-playground": {
+          "type": "stdio",
+          "command": "/Users/hq/git/mcp-playground/main",
+        //   "args": []
+        }
+      }
+    }
+  }
